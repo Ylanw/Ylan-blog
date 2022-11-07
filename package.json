@@ -1,6 +1,6 @@
 {
   "name": "ylan-blog",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "博客静态资源仓库",
   "main": "index.js",
   "scripts": {
