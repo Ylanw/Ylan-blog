@@ -1,0 +1,2 @@
+console.log('\n' + ' %c 🚈欢迎进站~本次列车终点站随风站🚞 ' + ' %c https://adunm.top/' + '\n' + '\n', 'color: #f0e5d1; background: #2AA7ED; padding:5px 0;', 'background: #f0e5d1; padding:5px 0;');
+console.error("爱而不得，再爱就不礼貌了");
