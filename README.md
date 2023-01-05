@@ -3,7 +3,7 @@
 ### CDN 供应商
 
 感谢 [Jsdelivr](https://www.jsdelivr.com/) ，[UNPKG](https://npm.elemecdn.com/)为本仓库提供免费 CDN 服务，根链接：[Jsdelivr](https://cdn.jsdelivr.net/npm/ylan-blog/)  
-[UNPKG](https://npm.elemecdn.com/browse/ylan-blog/ "饿了么出品，网宿国内节点")  
+[UNPKG](https://npm.elemecdn.com/ylan-blog@latest/ "饿了么出品，网宿国内节点")  
 [UNPKG自建](https://cdn.cbd.int/ylan-blog/)  
 
 jsDelivr 状态  
