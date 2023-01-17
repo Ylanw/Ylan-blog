@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Lanlinan/Ylan-blog.git"
+    "url": "git+https://github.com/Ylanw/Ylan-blog.git"
   },
   "keywords": [
     "静态文件"
   ],
-  "author": "Lanlinan",
+  "author": "Ylanw",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Lanlinan/Ylan-blog/issues"
+    "url": "https://github.com/Ylanw/Ylan-blog/issues"
   },
-  "homepage": "https://github.com/Lanlinan/Ylan-blog#readme"
+  "homepage": "https://github.com/Ylanw/Ylan-blog#readme"
 }
