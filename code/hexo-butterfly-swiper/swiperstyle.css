@@ -4,7 +4,7 @@
     box-sizing:border-box
 }
 div#swiper_container {
-    margin-top: 20px;
+    background:rgba(255, 255, 255, 0)
 }
 .blog-slider {
     width:100%;
